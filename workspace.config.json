@@ -1,0 +1,13 @@
+{
+  "workspaceRoot": ".",
+  "ignoredFolders": [
+    "node_modules", "dist", "build", "coverage",
+    ".next", ".turbo", ".git"
+  ],
+  "databases": [],
+  "services": [],
+  "maxFileSize": 1048576,
+  "maxSearchResults": 200,
+  "maxQueryRows": 1000,
+  "cacheTimeoutMs": 60000
+}
